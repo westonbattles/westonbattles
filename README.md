@@ -9,7 +9,7 @@
 <img src="https://i.imgur.com/eLm3dJV.jpg">
 
 <p align="center">
-  <a href="https://twitter.com/westonbattles">
+  <a href="https://twitter.com/westonbattles" target="_blank">
     <img src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png"
        width="50"
        height="50">
