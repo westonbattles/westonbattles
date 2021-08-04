@@ -20,7 +20,7 @@
 I'm a 16 year old full-stack developer and I'm currently teaching myself SQL and database communication. The only computer science courses that are avaiable to me through school are for Java, which is why I'm completly self taught in all of the other languages I know. These languages include Java, HTML, CSS, Javascript/Node JS, C#, and now SQL.
 
 - 🏫 I’m currently working on backend devlopment for a company that resells aws servers
-- 👀 I’m currently learning how to create apis for a databases
+- 👀 I’m currently learning how to create APIs for a databases
 - ✔️ Big fan of computers (I built mine), family and my cat Chance :D
 - 📫 How to reach me: westonb.work@gmail.com
 - 😄 Pronouns: he/him
