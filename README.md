@@ -2,9 +2,8 @@
 <!--
 **westonbattles/westonbattles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-<h1><a href="https://takeb1nzyto.space/"> <img src="https://i.imgur.com/IGvB9zy.png" height = "40"> </a> Welcome! Here's more about my work</h1>
-  
-
+<h1><a href="https://takeb1nzyto.space/" target="_blank"> <img src="https://i.imgur.com/IGvB9zy.png" height = "40"> </a> Welcome! Here's more about my work</h1>
+ 
 
 <img src="https://i.imgur.com/eLm3dJV.jpg">
 
