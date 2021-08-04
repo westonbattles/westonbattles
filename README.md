@@ -21,8 +21,8 @@ I'm a 16 year old full-stack developer and I'm currently teaching myself SQL and
 
 - 🏫 I’m currently working on backend devlopment for a company that resells aws servers
 - 👀 I’m currently learning how to create apis for a databases
-- ✔️ Big fan of computers, family and my cat Chance :D
+- ✔️ Big fan of computers (I built mine), family and my cat Chance :D
 - 📫 How to reach me: westonb.work@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun facts: I've been coding since I was 10 (6 years), I built my computer and I love puppies
+- ⚡ Fun facts: I've been coding since I was 10 (6 years) and I love cryptogrophy almost as much as I love my 2 dogs Posey and Scout
 
