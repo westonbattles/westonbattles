@@ -16,9 +16,9 @@
 </p>
 
 
-I'm a 16 year old full-stack developer and I'm currently teaching myself SQL and database communication. The only computer science courses that are avaiable to me through school are for Java (I just finished APCS and I'm about to start taking algorithms), which is why I'm completly self taught in all of the other languages I know. These languages include Python, Java, HTML, CSS, Javascript/Node JS, C#, and now SQL.
+I'm a 16 year old full-stack developer and I'm currently working on backend devlopment as an intern for Mercor, a company that facilitates AWS server usage and commerce. Said work includes outlining potential solutions to theoretical development problems and writing first draft code for senior level employees to revise and include in the software. The only computer science courses that are avaiable to me through school are for Java (I just finished APCS and I'm about to start taking algorithms), which is why I'm completly self taught in all of the other languages I know. These languages include Python, Java, HTML, CSS, Javascript/Node JS, C#, and now SQL.
 
-- 🏫 I’m currently working on backend devlopment as an intern for Mercor, a company that facilitates AWS server usage and commerce. Said work includes outlining potential solutions to theoretical development problems and writing first draft code for senior level employees to revise and include in the software
+- 🏫 I’m currently working on teaching myself SQL and learning how communication with databases can be established
 - 👀 I’m currently learning how to create APIs for databases
 - ✔️ Big fan of computers (I built mine), family and my cat Chance :D
 - 📫 How to reach me: westonb.work@gmail.com
