@@ -30,5 +30,5 @@ I'm a 16 year old full-stack developer and I'm currently working on backend devl
 - ✔️ Big fan of computers (I built mine), family and my cat Chance :D
 - 📫 How to reach me: westonb.work@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun facts: I've been coding since I was 10 (6 years) and I love cryptogrophy almost as much as I love my 2 dogs Posey and Scout
+- ⚡ Fun facts: I've been coding since I was 9 (7 years) and I love cryptogrophy almost as much as I love my 2 dogs Posey and Scout
 
