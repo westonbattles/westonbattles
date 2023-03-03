@@ -27,7 +27,7 @@ I'm a 17 year old full-stack developer and I'm currently working on backend devl
 
 - 🏫 I’m currently working on teaching myself SQL and learning how communication with databases can be established
 - 👀 I’m currently learning how to create APIs for databases
-- ✔️ Big fan of computers (I built mine), family and my cat Chance :D
+- ✔️ Big fan of computers (I built mine), my family, and my cat Toothless :D
 - 📫 How to reach me: westonb.work@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun facts: I've been coding since I was 9 (7 years) and I love cryptogrophy (Ny0xNS0xNS00IDEwLTE1LTIK)
