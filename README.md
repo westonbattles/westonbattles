@@ -23,7 +23,7 @@
 </p>
 
 
-I'm a 18 year old full-stack developer and I'm currently working on backend devlopment as an intern for [Mercor](https://www.linkedin.com/company/mercor-connect), a company that facilitates AWS server usage and commerce. Said work includes outlining potential solutions to theoretical development problems and writing first draft code for senior level employees to revise and include in the software. The only computer science courses that are avaiable to me through school are for Java (APCS and Algorithms), which is why I'm completly self taught in all of the other languages I know. These languages include Python, Java, HTML, CSS, Javascript/Node JS, C#, and now SQL.
+I'm an 18 year old full-stack developer and I'm currently working on backend devlopment as an intern for [Mercor](https://www.linkedin.com/company/mercor-connect), a company that facilitates AWS server usage and commerce. Said work includes outlining potential solutions to theoretical development problems and writing first draft code for senior level employees to revise and include in the software. The only computer science courses that are avaiable to me through school are for Java (APCS and Algorithms), which is why I'm completly self taught in all of the other languages I know. These languages include Python, Java, HTML, CSS, Javascript/Node JS, C#, and now SQL.
 
 - 🏫 I’m currently working on teaching myself SQL and learning how communication with databases can be established
 - 👀 I’m currently learning how to create APIs for databases
