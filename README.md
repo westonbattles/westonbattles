@@ -23,11 +23,11 @@
 </p>
 
 
-I'm an 18 year old full-stack developer and I'm currently looking for a position in the Video Game industry, as a software developer. My previous position was on backend devlopment as an intern for [Mercor](https://www.linkedin.com/company/mercor-connect), a company that facilitates AWS server usage and commerce. Said work includes outlining potential solutions to theoretical development problems and writing first draft code for senior level employees to revise and include in the software. The only computer science courses that are avaiable to me through school are for Java (APCS and Algorithms), which is why I'm completly self taught in all of the other languages I know. These languages include Python, C#, Java, HTML, CSS, Javascript/Node JS, C#, SQL, and I've just now started learning C++ in hopes of getting into development with Unreal Engine (I'm very profeccient with unity but most industry-standard game companies use UE4/UE5)
+I'm an 18 year old full-stack developer and I'm currently looking for a position in the video game industry, as a software developer. My previous position was on backend devlopment as an intern for [Mercor](https://www.linkedin.com/company/mercor-connect), a company that facilitates AWS server usage and commerce. Said work included outlining potential solutions to theoretical development problems and writing first draft code for senior level employees to revise and include in the software. The only computer science courses that were avaiable to me through school were for Java (APCS and Algorithms), which is why I'm completly self taught in all of the other languages I know. These languages include Python, C#, Java, HTML, CSS, Javascript/Node JS, C#, SQL, and I've just now started learning C++ in hopes of getting into development with Unreal Engine (I'm very profeccient with Unity but most industry-standard game companies use UE4/UE5)
 
 - 🏫 Currently working on a small passion-project indie game with unity about mental health and depression (very heavily inspired by The Begginers Guide)
-- 👀 Ccurrently learning 3D modelling (blender) for my game so I can realize my vision to its truest form, instead of throwing together random free assets
-- ✔️ Big fan of computers (I built mine), my family, and my cat Toothless :D
+- 👀 Ccurrently learning 3D modelling (Blender) for my game so I can realize my vision to its truest form, instead of throwing together random free assets
+- ✔️ Big fan of computers (I love building them), my family, and my cat Toothless :D
 - 📫 How to reach me: westonb.work@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun facts: I've been coding since I was 9 and I love cryptogrophy (Ny0xNS0xNS00IDEwLTE1LTIK)
