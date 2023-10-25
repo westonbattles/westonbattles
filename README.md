@@ -25,7 +25,7 @@
 
 I'm an 18 year old full-stack developer and I'm currently looking for a position in the video game industry, as a software developer. My previous position was on backend devlopment as an intern for [Mercor](https://www.linkedin.com/company/mercor-connect), a company that facilitates AWS server usage and commerce. Said work included outlining potential solutions to theoretical development problems and writing first draft code for senior level employees to revise and include in the software. The only computer science courses that were avaiable to me through school were for Java (APCS and Algorithms), which is why I'm completly self taught in all of the other languages I know. These languages include Python, C#, Java, HTML, CSS, Javascript/Node JS, C#, SQL, and I've just now started learning C++ in hopes of getting into development with Unreal Engine (I'm very profeccient with Unity but most industry-standard game companies use UE4/UE5)
 
-- 🏫 Currently working on a small passion-project indie game with <s>Unity</s> **Godot** about mental health and depression (very heavily inspired by [The Beginners Guide]([https://store.steampowered.com/app/303210/The_Beginners_Guide))
+- 🏫 Currently working on a small passion-project indie game with <s>Unity</s> **Godot** about mental health and depression (very heavily inspired by [The Beginner's Guide](https://store.steampowered.com/app/303210/The_Beginners_Guide))
 - 👀 Currently learning 3D modeling (Blender) for my game so I can realize my vision to its truest form, instead of throwing together random free assets
 - ✔️ Big fan of computers (especially building them), my family, and my cat Toothless :D
 - 📫 How to reach me: westonb.work@gmail.com
