@@ -23,7 +23,7 @@
 </p>
 
 
-I'm a 19 year old full-stack developer and I'm currently looking for a position in the video game industry, as a software developer. Proficiency in Rust, C#, Java, Python, HTML, CSS, Javascript/Node JS, C#, SQL, and I've just now started learning C++ in hopes of getting into development with Unreal Engine (I'm very profeccient with Unity but most industry-standard game companies use UE4/UE5)
+I'm a 19 year old full-stack developer and I'm currently looking for a position in the video game industry, as a software developer. Proficiency in Rust, C#, Java, Python, HTML, CSS, Javascript/Node JS, C#, SQL, and I've just now started learning C++ in hopes of getting into development with Unreal Engine (I'm good with Unity but most industry-standard game companies use UE4/UE5)
 
 - 🏫 Currently working on a small passion-project indie game with <s>Unity</s> **Godot** about mental health and depression (very heavily inspired by [The Beginner's Guide](https://store.steampowered.com/app/303210/The_Beginners_Guide))
 - 👀 Currently learning 3D modeling (Blender) for my game so I can realize my vision to its truest form, instead of throwing together random free assets
